@@ -6,4 +6,5 @@ def main(s):
     Returns:
         string
     """
-    return
+    return s*len(s)
+print(main('abcd'))
